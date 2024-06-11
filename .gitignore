@@ -1,0 +1,5 @@
+:qqdb.sqlite3
+geckodriver.log
+.DS_Store
+__pycache__
+*.pyc
