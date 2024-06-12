@@ -8,7 +8,7 @@ from selenium.common.exceptions import WebDriverException
 import os
 
 MAX_WAIT = 10
-REAL_SERVER = "8.130.47.121"
+REAL_SERVER="8.130.47.121"
 class NewVisitorTest(StaticLiveServerTestCase):
 
     def setUp(self):
